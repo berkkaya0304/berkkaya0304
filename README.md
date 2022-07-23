@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I am Berk Kaya </h1>
- <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
 
 ### Who am I?
