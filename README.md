@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I am Berk Kaya </h1>
+<h1 align="center">Hi 👋, I am Berk Kaya. </h1>
 <br/>
 
 ### Who am I?
@@ -9,7 +9,7 @@
 
 <br>
 
-<h1 align="center"> 💻Berk Kaya</h1>
+<h1 align="center"> 💻Berk Kaya Stats</h1>
 <p align="center">
 <a href="https://github.com/berkkaya0304">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=berkkaya0304&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
