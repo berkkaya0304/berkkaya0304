@@ -7,7 +7,7 @@
 - :computer:I am the currently Computer Engineering and Sciences Student at Ted University.  
 - :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
 
-***:computer:	BE YOURSELF***
+
 <br>
 
 <h1 align="center"> 💻Berk Kaya</h1>
