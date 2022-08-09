@@ -5,7 +5,7 @@
 
 ### Who am I?
 - :computer:I am the currently Computer Engineering and Sciences Student at Ted University.  
-- :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
+- :computer:I am trying to improve myself in every field. 
 - :computer:berkkaya0304@hotmail.com
 
 
