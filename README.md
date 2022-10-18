@@ -21,7 +21,7 @@
 
  <h2 align="center">My Social Media Accounts </h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/berkkaya0304/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/berkkaya0304/" target="blank"><img align="center" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="30" width="30" /></a>
 <a href="https://instagram.com/ber.kaya_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"  height="30" width="30" /></a>
 <a href="https://medium.com/@berkkaya0304" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="30" width="40" />
 </a>
