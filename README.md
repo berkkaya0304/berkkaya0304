@@ -1,4 +1,4 @@
-<img height="300em" src="https://media-exp1.licdn.com/dms/image/C4D16AQHfXihZaWMd0w/profile-displaybackgroundimage-shrink_350_1400/0/1658510910851?e=1663804800&v=beta&t=V0K4awBjW2SB0D67_BFAXiHJWBgGhi5VNZjrabynuYI"/> 
+<img height="300em" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fsoftware-engineer&psig=AOvVaw2c9pKpBmC0gYN-KAfcByq4&ust=1666166104499000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPCl9cim6foCFQAAAAAdAAAAABAE"/> 
 
 <h1 align="center">Hi 👋, I am Berk Kaya. </h1>
 <br/>
