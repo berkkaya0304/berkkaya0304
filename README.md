@@ -1,4 +1,4 @@
-<img height="300em" src="https://live.staticflickr.com/4387/36231833334_b3581aa9af_o_d.png"/> 
+<img src="https://live.staticflickr.com/4387/36231833334_b3581aa9af_o_d.png"/> 
 
 <h1 align="center">Hi 👋, I am Berk Kaya. </h1>
 <br/>
