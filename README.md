@@ -1,5 +1,4 @@
-<img src="https://live.staticflickr.com/4387/36231833334_b3581aa9af_o_d.png"/> 
-
+<img src="https://media.licdn.com/dms/image/D4D16AQEIOAJHxkJm2g/profile-displaybackgroundimage-shrink_350_1400/0/1703959858032?e=1710979200&v=beta&t=2rH0ImZNdINbbjdirt8z2yEMi95BlDflzOmyJbRURYk"/> 
 <h1 align="center">Hi 👋, I am Berk Kaya. </h1>
 <br/>
 
