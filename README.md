@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQEIOAJHxkJm2g/profile-displaybackgroundimage-shrink_350_1400/0/1703959858032?e=1710979200&v=beta&t=2rH0ImZNdINbbjdirt8z2yEMi95BlDflzOmyJbRURYk"/> 
+<img src="https://iibawards-prod.s3.amazonaws.com/projects/images/000/002/333/page.png?1505504208"/> 
 <h1 align="center">Hi 👋, I am Berk Kaya. </h1>
 <br/>
 
