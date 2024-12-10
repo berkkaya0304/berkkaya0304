@@ -6,7 +6,7 @@
 - :computer:I am the currently Computer Engineering and Sciences Student at Ted University.  
 - :computer:I am trying to improve myself in every field. 
 - :computer:berkkaya0304@hotmail.com
-- :computer:<a href="berkkaya.me" target="blank">berkkaya.me</a>
+- :computer:<a href="https://berkkaya.me/" target="blank">berkkaya.me</a>
 
 <br>
 
