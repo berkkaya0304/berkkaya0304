@@ -6,8 +6,7 @@
 - :computer:I am the currently Computer Engineering and Sciences Student at Ted University.  
 - :computer:I am trying to improve myself in every field. 
 - :computer:berkkaya0304@hotmail.com
-- :computer:berkkaya@ieee.org
-- :computer:berk.kaya@tedu.edu.tr
+- :computer:berkkaya.me
 
 <br>
 
