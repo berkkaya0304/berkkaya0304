@@ -1,40 +1,33 @@
-<img src="https://iibawards-prod.s3.amazonaws.com/projects/images/000/002/333/page.png?1505504208"/> 
-<h1 align="center">Hi 👋, I am Berk Kaya. </h1>
-<br/>
+<h1 align="center">Hi 👋, I'm Berk Kaya</h1>
+<h3 align="center">A passionate computer engineer from Turkiye</h3>
 
-### Who am I?
-- :computer:I am the currently Computer Engineering and Sciences Student at Ted University.  
-- :computer:I am trying to improve myself in every field. 
-- :computer:berkkaya0304@hotmail.com
-- :computer:<a href="https://berkkaya.me/" target="blank">berkkaya.me</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=berkkaya0304&label=Profile%20views&color=0e75b6&style=flat" alt="berkkaya0304" /> </p>
 
-<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkkaya0304" alt="berkkaya0304" /></a> </p>
 
-<h1 align="center"> 💻Berk Kaya Stats</h1>
-<p align="center">
-<a href="https://github.com/berkkaya0304">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=berkkaya0304&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkkaya0304&layout=compact&langs_count=16&theme=react"/>
- </div>
-</p>
+- 🌱 I’m currently learning **Artificial Intelligence - Machine Learning - Deep Learning**
 
- <h2 align="center">My Social Media Accounts </h2>
+- 👨‍💻 All of my projects are available at [https://berkkaya.me/work](https://berkkaya.me/work)
+
+- 📝 I regularly write articles on [https://medium.com/@berkkaya0304](https://medium.com/@berkkaya0304)
+
+- 📫 How to reach me **berkkaya0304@hotmail.com**
+
+- 📄 Know about my experiences [https://berkkaya.me/](https://berkkaya.me/)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/berkkaya0304/" target="blank"><img align="center" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="30" width="30" /></a>
-<a href="https://instagram.com/ber.kaya_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"  height="30" width="30" /></a>
-<a href="https://medium.com/@berkkaya0304" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="30" width="40" />
-</a>
+<a href="https://linkedin.com/in/berkkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkkaya" height="30" width="40" /></a>
+<a href="https://instagram.com/ber.kaya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ber.kaya_" height="30" width="40" /></a>
+<a href="https://medium.com/@berkkaya0304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@berkkaya0304" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Languages & Frameworks</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  
-<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://classes.engineering.wustl.edu/cse231/core/images/2/26/Java.png"></code>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkkaya0304&show_icons=true&locale=en&layout=compact" alt="berkkaya0304" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkkaya0304&show_icons=true&locale=en" alt="berkkaya0304" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkkaya0304&" alt="berkkaya0304" /></p>
 
-   
