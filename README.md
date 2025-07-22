@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Berk Kaya</h1>
 <h3 align="center">A passionate computer engineer from Turkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=berkkaya0304&label=Profile%20views&color=0e75b6&style=flat" alt="berkkaya0304" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=berkkaya0304&label=Profile%20views&color=0e75b6&style=flat" alt="berkkaya0304" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkkaya0304" alt="berkkaya0304" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkkaya0304" alt="berkkaya0304" /></a> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence - Machine Learning - Deep Learning**
 
