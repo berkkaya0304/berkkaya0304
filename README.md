@@ -17,15 +17,12 @@ Dark-themed GitHub Profile README for @berkkaya0304
   <a href="https://berkkaya.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="Portfolio">
   </a> 
-  
   <a href="mailto:berkkaya0304@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=fafafa" alt="Email">
   </a> 
-  
   <a href="https://www.linkedin.com/in/berkkaya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn">
   </a>
-
 </div>
 
 ---
