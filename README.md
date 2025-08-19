@@ -25,3 +25,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkkaya0304&" alt="berkkaya0304" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=berkkaya0304&theme=onedark)](https://github.com/berkkaya0304)
+
+
