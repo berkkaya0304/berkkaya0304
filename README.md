@@ -1,29 +1,27 @@
 <!--
-Bu README, karanlık temaya özen verilerek hazırlandı.
-Kendine göre özelleştirmen için notlar ve ipuçları dosya içinde yorum olarak yer alıyor.
+Dark-themed GitHub Profile README for @berkkaya0304
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1020,100:111827&text=berkkaya0304&fontColor=22d3ee&fontAlignY=40&desc=GitHub%20Profilime%20Ho%C5%9F%20Geldiniz&descAlignY=65&fontSize=48&descSize=18&animation=fadeIn">
-  <img alt="Header Banner" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1020,100:111827&text=berkkaya0304&fontColor=0b1020&fontAlignY=40&desc=Welcome&descAlignY=65&fontSize=48&descSize=18">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1020,100:111827&text=berkkaya0304&fontColor=22d3ee&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20profile&descAlignY=65&fontSize=46&descSize=18&animation=fadeIn">
+  <img alt="Header Banner" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1020,100:111827&text=berkkaya0304&fontColor=0b1020&fontAlignY=40&desc=Welcome&descAlignY=65&fontSize=46&descSize=18">
 </picture>
 
 <div align="center">
 
-  <!-- Profil Görünümleri -->
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=berkkaya0304&style=for-the-badge&label=PROFILE+VIEWS&color=0ea5e9" alt="Profile views"/>
 
-  <!-- Hızlı Bağlantılar (Düzenle) -->
+  <!-- Quick Links -->
   <br/><br/>
   <a href="https://github.com/berkkaya0304" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
   </a>
-  <!-- Portfolyo adresin yoksa bu rozeti kaldırabilirsin -->
-  <a href="https:/berkkaya.me" target="_blank">
+  <a href="https://berkkaya.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="Portfolio">
   </a>
   <a href="mailto:berkkaya0304@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/E%20Posta-0f172a?style=for-the-badge&logo=gmail&logoColor=fafafa" alt="Email">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=fafafa" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/berkkaya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn">
@@ -33,89 +31,64 @@ Kendine göre özelleştirmen için notlar ve ipuçları dosya içinde yorum ola
 
 ---
 
-## 👋 Merhaba
-Kodu temiz, ölçeklenebilir ve sürdürülebilir olacak şekilde yazmayı seven bir geliştiriciyim. Açık kaynak dünyasını, modern mimarileri ve gerçek problemleri çözen ürünler geliştirmeyi önemsiyorum.
+## 👋 About Me
+I’m a developer passionate about writing clean, scalable, and maintainable code.  
+I love building real-world products, contributing to open-source projects, and exploring modern architectures.  
 
-- 🚀 İlgi alanlarım: performans, test, otomasyon, developer experience
-- 🧭 Hedefler: daha fazla açık kaynak katkısı, düzenli teknik yazılar, topluluk odaklı projeler
-- 💬 İşbirliği/mentorluk için her zaman yazabilirsin
-
-<!-- İPUCU: İstersen ad/ünvan ekleyebilirsin
-### Berk Kaya — Software Developer
--->
+- 🚀 Interests: performance optimization, testing, automation, developer experience  
+- 🧭 Goals: contribute more to open-source, publish blog posts, build community-driven projects  
+- 🤝 Open to collaboration and mentoring opportunities  
 
 ---
 
-## 🛠️ Teknolojiler ve Araçlar
-<!-- İPUCU: Aşağıdaki ikonları kendi stack'ine göre düzenle. İkon eklemek/çıkarmak için https://skillicons.dev/ -->
+## 🛠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,html,css,tailwind,nodejs,express,python,django,flask,java,spring,go,postgres,mysql,mongodb,redis,docker,kubernetes,linux,git,github,vscode&perline=12" alt="Tech stack icons">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,vue,html,css,tailwind,nodejs,express,python,django,java,spring,go,postgres,mysql,mongodb,redis,docker,kubernetes,linux,git,github,postman,vscode&perline=12" alt="Tech stack icons">
 </div>
 
-<!-- Alternatif: “kullandığım/ilgi duyduğum” şeklinde ifade ederek esnek bırak -->
 <p align="center">
-  <em>Not: Bu ikonlar ilgi duyduğum ve/veya aktif olarak kullandığım teknolojileri temsil eder. Detaylar profil projelerinde.</em>
+  <em>Note: These icons represent technologies I use and explore. Check my repos for more details.</em>
 </p>
 
 ---
 
-## 📊 İstatistikler
+## 📊 GitHub Stats
 <div align="center">
-
-  <!-- Tema seçenekleri: tokyonight, radical, gotham, dark, midnight-purple ... -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=berkkaya0304&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="GitHub stats">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=berkkaya0304&theme=tokyonight&hide_border=true" alt="GitHub streak">
   <br/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkkaya0304&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages">
-
 </div>
 
 ---
 
-## 🏆 Başarılar ve Kupalar
+## 🏆 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=berkkaya0304&theme=darkhub&no-bg=true&no-frame=true&row=1&column=7" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=berkkaya0304&theme=darkhub&no-bg=true&no-frame=true&margin-w=5&row=1&column=7" alt="Trophies"/>
 </div>
 
 ---
 
-## 📌 Öne Çıkan Projeler
-<!-- İPUCU: Aşağıdaki pin bileşeninde REPO_ADI yazan yerleri kendi repo isimlerinle değiştir -->
+## 📌 Featured Projects
 <div align="center">
-  <a href="https://github.com/berkkaya0304/REPO_ADI_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkkaya0304&repo=REPO_ADI_1&theme=tokyonight&hide_border=true" alt="Pinned repo 1"/>
+  <a href="https://github.com/berkkaya0304/berk-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkkaya0304&repo=berk-portfolio&theme=tokyonight&hide_border=true" alt="Pinned repo 1"/>
   </a>
-  <a href="https://github.com/berkkaya0304/REPO_ADI_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkkaya0304&repo=REPO_ADI_2&theme=tokyonight&hide_border=true" alt="Pinned repo 2"/>
+  <a href="https://github.com/berkkaya0304/Universe_explorer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkkaya0304&repo=Universe_explorer&theme=tokyonight&hide_border=true" alt="Pinned repo 2"/>
   </a>
 </div>
 
-<!-- Alternatif: Liste halinde açıklama eklemek istersen
-- REPO_ADI — Kısa açıklama, kullanılan teknolojiler, canlı demo bağlantısı
--->
+---
+
+## 📬 Contact
+- 📧 Email: [berkkaya0304@hotmail.com](mailto:berkkaya0304@hotmail.com)  
+- 🌐 Portfolio: [berkkaya.me](https://berkkaya.me)  
+- 💼 LinkedIn: [linkedin.com/in/berkkaya](https://www.linkedin.com/in/berkkaya/)  
+- 🐙 GitHub: [github.com/berkkaya0304](https://github.com/berkkaya0304)  
 
 ---
 
-## 📬 İletişim
-- E-posta: your.email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-linkedin/
-- X/Twitter: https://x.com/your-handle
-
-<!-- İPUCU: Sosyal linklerini güncellemeyi unutma -->
-
----
-
-<!-- İsteğe bağlı: “Contribution Snake” animasyonu eklemek için aşağıdaki adımları takip et.
-1) .github/workflows/snake.yml oluştur.
-2) https://github.com/Platane/snk deposundaki çalışma dosyasını kopyala.
-3) Çıktıyı 'dist/github-contribution-grid-snake-dark.svg' olarak üret.
-4) Aşağıdaki görüntüyü yoruma alımdan çıkar.
-<p align="center">
-  <img src="https://raw.githubusercontent.com/berkkaya0304/berkkaya0304/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation">
-</p>
--->
-
-<!-- Alt dalga -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:111827,100:0b1020&section=footer">
   <img alt="Footer Wave" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:111827,100:0b1020&section=footer">
