@@ -32,11 +32,8 @@ Dark-themed GitHub Profile README for @berkkaya0304
 ---
 
 ## 👋 About Me
-I’m a developer passionate about writing clean, scalable, and maintainable code.  
-I love building real-world products, contributing to open-source projects, and exploring modern architectures.  
+As a Computer Engineering undergraduate at TED University with a 100% scholarship, I am deeply passionate about technology, leadership, and innovation. My journey into engineering started early, fueled by curiosity and a drive to solve problems creatively. Today, I am committed to translating my technical expertise and leadership skills into impactful solutions.
 
-- 🚀 Interests: performance optimization, testing, automation, developer experience  
-- 🧭 Goals: contribute more to open-source, publish blog posts, build community-driven projects  
 - 🤝 Open to collaboration and mentoring opportunities  
 
 ---
