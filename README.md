@@ -43,7 +43,7 @@ I love building real-world products, contributing to open-source projects, and e
 
 ## 🛠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,angular,arch,azure,c,csdart,docker,firebase,figma,flutter,gcp,git,gradle,html,java,js,kafka,kubernetes,linux,materialui,maven,mysql,mongodb,nextjs,nginx,nodejs,notion,npm,postgres,postman,powershell,pycharm,py,rabbitmq,react,rider,spring,tailwind,terraform,threejs,ts,vscode,wordpress&perline=12" alt="Tech stack icons">
+  <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,angular,arch,azure,c,cs,dart,docker,firebase,figma,flutter,gcp,git,gradle,html,java,js,kafka,kubernetes,linux,materialui,maven,mysql,mongodb,nextjs,nginx,nodejs,notion,npm,postgres,postman,powershell,pycharm,py,rabbitmq,react,rider,spring,tailwind,terraform,threejs,ts,vscode,wordpress&perline=12" alt="Tech stack icons">
 </div>
 
 <p align="center">
