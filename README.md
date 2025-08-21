@@ -4,7 +4,7 @@ Dark-themed GitHub Profile README for @berkkaya0304
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1020,100:111827&text=Welcome%20to%20My%20Page%20-%20Berk%20Kaya!&fontColor=22d3ee&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20profile&descAlignY=65&fontSize=46&descSize=18&animation=fadeIn">
-  <img alt="Header Banner" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1020,100:111827&text=berkkaya0304&fontColor=0b1020&fontAlignY=40&desc=Welcome&descAlignY=65&fontSize=46&descSize=18">
+  <img alt="Header Banner" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1020,100:111827&text=Welcome%20to%20My%20Page%20-%20Berk%20Kaya!&fontColor=0b1020&fontAlignY=40&desc=Welcome&descAlignY=65&fontSize=46&descSize=18">
 </picture>
 
 <div align="center">
