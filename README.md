@@ -50,7 +50,7 @@ As a Computer Engineering undergraduate at TED University with a 100% scholarshi
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=berkkaya0304&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="GitHub stats">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=berkkaya0304&theme=tokyonight&hide_border=true" alt="GitHub streak">
   <br/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkkaya0304&include_all_commits=true&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=augmented-reality-learning" alt="Top languages">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkkaya0304&include_all_commits=true&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=augmented-reality-learning" alt="Top languages">
 </div>
 
 ---
