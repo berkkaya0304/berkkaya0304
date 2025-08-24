@@ -57,7 +57,7 @@ As a Computer Engineering undergraduate at TED University with a 100% scholarshi
 
 ## 🏆 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=berkkaya0304&theme=darkhub&no-bg=true&no-frame=true&margin-w=5&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=berkkaya0304&theme=onedark&no-bg=true&no-frame=true&margin-w=5&row=1&column=7" alt="Trophies"/>
 </div>
 
 ---
