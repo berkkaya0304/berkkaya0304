@@ -64,9 +64,6 @@ As a Computer Engineering undergraduate at TED University with a 100% scholarshi
 
 ## 📌 Featured Projects
 <div align="center">
-  <a href="https://github.com/berkkaya0304/berk-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkkaya0304&repo=berk-portfolio&theme=tokyonight&hide_border=true" alt="Pinned repo 1"/>
-  </a>
   <a href="https://github.com/berkkaya0304/Universe_explorer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkkaya0304&repo=Universe_explorer&theme=tokyonight&hide_border=true" alt="Pinned repo 2"/>
   </a>
