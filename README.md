@@ -69,6 +69,12 @@ As a Computer Engineering undergraduate at TED University with a 100% scholarshi
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/berkkaya0304/afet-yonetim-sistemi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkkaya0304&repo=afet-yonetim-sistemi&theme=tokyonight&hide_border=true" alt="Pinned repo 2"/>
+  </a>
+</div>
+
 ---
 
 ## 📬 Contact
