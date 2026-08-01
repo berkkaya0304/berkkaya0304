@@ -30,55 +30,58 @@
 
 ### 🧑‍💼 &nbsp;About Me
 
-</div>
+<br/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+I am a **Delivery Consultant** at **IBM**, operating within enterprise-scale,<br/>
+mission-critical environments in the **IBM Z ecosystem**.<br/><br/>
+My academic foundation at **TEDU – Computer Engineering** and **PWR – Applied Computer Sciences**<br/>
+shaped my expertise in software engineering, distributed systems, and analytical problem-solving.<br/><br/>
+I thrive where **precision meets impact** — translating engineering fundamentals<br/>
+into consulting-driven, enterprise-grade solutions that matter.
 
-I am a **Delivery Consultant** at **IBM**, operating within enterprise-scale, mission-critical environments in the **IBM Z ecosystem**.
+<br/><br/>
 
-My academic foundation at **TEDU – Computer Engineering** and **PWR – Applied Computer Sciences** shaped my expertise in software engineering, distributed systems, and analytical problem-solving.
-
-I thrive where **precision meets impact** — translating engineering fundamentals into consulting-driven, enterprise-grade solutions that matter.
+<img src="https://img.shields.io/badge/🏢 Role-Delivery Consultant @ IBM-0f62fe?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/📍 Location-Ankara, Türkiye-0f62fe?style=for-the-badge&labelColor=0d1117"/>
 
 <br/>
 
-| | |
-|---|---|
-| 🏢 **Role** | Delivery Consultant |
-| 🏭 **Company** | IBM |
-| 🎓 **Education** | TEDU → Computer Engineering |
-| 🎓 **Exchange** | PWR → Applied Computer Sciences |
-| 🎯 **Focus** | Enterprise Systems · IBM Z · DevOps |
-| 📍 **Location** | Ankara, Türkiye |
-| 🤝 **Status** | Open to Collaborate & Mentor |
+<img src="https://img.shields.io/badge/🎓 Education-TEDU Computer Engineering-0f62fe?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🎓 Exchange-PWR Applied Computer Sciences-0f62fe?style=for-the-badge&labelColor=0d1117"/>
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-| | |
-|---|---|
-| 🌍 **Languages** | English · Turkish |
-| ⏰ **Timezone** | GMT+3 · Ankara |
-| 🔭 **Working on** | IBM Z enterprise consulting |
-| 💡 **Learning** | Mainframe · AI-driven solutions |
-| 🎯 **2025 Goal** | Enterprise impact via IBM Z |
-| 📖 **Interests** | Open Source · Cloud · Distributed Systems |
-| 🛠 **On GitHub** | Since Nov 2021 · 18 repos · 28 followers |
+<img src="https://img.shields.io/badge/🎯 Focus-Enterprise Systems · IBM Z · DevOps-0f62fe?style=for-the-badge&labelColor=0d1117"/>
 
-</td>
-</tr>
-</table>
+<br/>
+
+<img src="https://img.shields.io/badge/🔭 Working on-IBM Z Enterprise Consulting-0353a4?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/💡 Learning-Mainframe · AI Solutions-0353a4?style=for-the-badge&labelColor=0d1117"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🌍 Languages-English · Turkish-0d1117?style=for-the-badge&labelColor=161b22&color=21262d"/>
+<img src="https://img.shields.io/badge/🤝 Status-Open to Collaborate-0d1117?style=for-the-badge&labelColor=161b22&color=21262d"/>
+<img src="https://img.shields.io/badge/🛠 GitHub Since-Nov 2021-0d1117?style=for-the-badge&labelColor=161b22&color=21262d"/>
+
+</div>
 
 <br/>
 
 <!-- ════════════════════════════════════════════════════ STATS ══ -->
 <div align="center">
 
-<img src="https://github-stats-delta.vercel.app/api?username=berkkaya0304&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=percentile&title_color=0f62fe&icon_color=58a6ff&bg_color=0d1117&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://streak-stats.demolab.com?user=berkkaya0304&theme=github-dark-blue&hide_border=true&ring=0f62fe&fire=58a6ff&currStreakLabel=0f62fe&background=0D1117&stroke=21262d&sideLabels=c9d1d9&dates=8b949e" height="170" alt="GitHub Streak"/>
+### 📊 &nbsp;GitHub Stats
+
+<br/>
+
+<img src="https://github-stats-delta.vercel.app/api?username=berkkaya0304&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=percentile&title_color=0f62fe&icon_color=58a6ff&bg_color=0d1117&text_color=c9d1d9&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=berkkaya0304&theme=github-dark-blue&hide_border=true&ring=0f62fe&fire=58a6ff&currStreakLabel=0f62fe&background=0D1117&stroke=21262d&sideLabels=c9d1d9&dates=8b949e" height="175" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-stats-delta.vercel.app/api/top-langs/?username=berkkaya0304&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&title_color=0f62fe&bg_color=0d1117&text_color=c9d1d9&exclude_repo=augmented-reality-learning" alt="Top Languages"/>
 
 </div>
 
