@@ -7,18 +7,17 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/berkkaya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://berkkaya.me"><img src="https://img.shields.io/badge/berkkaya.me-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
-<a href="mailto:berkkaya0304@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/berkkaya0304"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/berkkaya/"><img src="https://img.shields.io/badge/LinkedIn-berkkaya-0f62fe?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>&nbsp;
+<a href="https://berkkaya.me"><img src="https://img.shields.io/badge/Website-berkkaya.me-0f62fe?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/></a>&nbsp;
+<a href="mailto:berkkaya0304@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0f62fe?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0d1117"/></a>&nbsp;
+<a href="https://github.com/berkkaya0304"><img src="https://img.shields.io/badge/GitHub-berkkaya0304-0f62fe?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=berkkaya0304&style=flat-square&label=Profile+Views&color=0f62fe&labelColor=0d1117"/>
-&nbsp;<img src="https://img.shields.io/badge/Followers-28-0f62fe?style=flat-square&labelColor=0d1117&logo=github&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/Repos-18-0f62fe?style=flat-square&labelColor=0d1117&logo=github&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/IBM-Delivery_Consultant-0f62fe?style=flat-square&logo=ibm&logoColor=white&labelColor=0d1117"/>
-&nbsp;<img src="https://img.shields.io/badge/📍_Ankara-Türkiye-0f62fe?style=flat-square&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=berkkaya0304&style=for-the-badge&label=Profile+Views&color=0f62fe&labelColor=0d1117&logo=eye&logoColor=white"/>
+&nbsp;<img src="https://img.shields.io/github/followers/berkkaya0304?style=for-the-badge&label=Followers&color=0f62fe&labelColor=0d1117&logo=github&logoColor=white"/>
+&nbsp;<img src="https://img.shields.io/github/stars/berkkaya0304?style=for-the-badge&label=Stars&color=0f62fe&labelColor=0d1117&logo=github&logoColor=white"/>
+&nbsp;<img src="https://img.shields.io/badge/Ankara-Türkiye-0f62fe?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117"/>
 
 </div>
 
@@ -41,28 +40,33 @@ into consulting-driven, enterprise-grade solutions that matter.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🏢 Role-Delivery Consultant @ IBM-0f62fe?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/📍 Location-Ankara, Türkiye-0f62fe?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Role-Delivery_Consultant_@_IBM-0f62fe?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Ankara,_Türkiye-0f62fe?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/🎓 Education-TEDU Computer Engineering-0f62fe?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🎓 Exchange-PWR Applied Computer Sciences-0f62fe?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Education-TEDU_Computer_Engineering-0f62fe?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Exchange-PWR_Applied_CS-0f62fe?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0d1117"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/🎯 Focus-Enterprise Systems · IBM Z · DevOps-0f62fe?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Focus-Enterprise_Systems_·_IBM_Z_·_DevOps-0f62fe?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/🔭 Working on-IBM Z Enterprise Consulting-0353a4?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/💡 Learning-Mainframe · AI Solutions-0353a4?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Working_on-IBM_Z_Enterprise_Consulting-0f62fe?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Learning-Mainframe_·_AI_Solutions-0f62fe?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0d1117"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/🌍 Languages-English · Turkish-0d1117?style=for-the-badge&labelColor=161b22&color=21262d"/>
-<img src="https://img.shields.io/badge/🤝 Status-Open to Collaborate-0d1117?style=for-the-badge&labelColor=161b22&color=21262d"/>
-<img src="https://img.shields.io/badge/🛠 GitHub Since-Nov 2021-0d1117?style=for-the-badge&labelColor=161b22&color=21262d"/>
+<img src="https://img.shields.io/badge/Languages-English_·_Turkish-0f62fe?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open_to_Collaborate-0f62fe?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/On_GitHub_Since-Nov_2021-0f62fe?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 
 </div>
 
@@ -75,13 +79,21 @@ into consulting-driven, enterprise-grade solutions that matter.
 
 <br/>
 
-<img src="https://github-stats-delta.vercel.app/api?username=berkkaya0304&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=percentile&title_color=0f62fe&icon_color=58a6ff&bg_color=0d1117&text_color=c9d1d9&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=berkkaya0304&theme=github-dark-blue&hide_border=true&ring=0f62fe&fire=58a6ff&currStreakLabel=0f62fe&background=0D1117&stroke=21262d&sideLabels=c9d1d9&dates=8b949e" height="175" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-stats-delta.vercel.app/api/top-langs/?username=berkkaya0304&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&title_color=0f62fe&bg_color=0d1117&text_color=c9d1d9&exclude_repo=augmented-reality-learning" alt="Top Languages"/>
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-stats-delta.vercel.app/api?username=berkkaya0304&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=percentile&title_color=0f62fe&icon_color=58a6ff&bg_color=0d1117&text_color=c9d1d9&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+</td>
+<td width="50%" align="center">
+<img src="https://streak-stats.demolab.com?user=berkkaya0304&theme=github-dark-blue&hide_border=true&ring=0f62fe&fire=58a6ff&currStreakLabel=0f62fe&background=0D1117&stroke=21262d&sideLabels=c9d1d9&dates=8b949e" width="100%" alt="GitHub Streak"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-stats-delta.vercel.app/api/top-langs/?username=berkkaya0304&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&title_color=0f62fe&bg_color=0d1117&text_color=c9d1d9&exclude_repo=augmented-reality-learning" width="50%" alt="Top Languages"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -270,23 +282,16 @@ into consulting-driven, enterprise-grade solutions that matter.
 <!-- ═══════════════════════════════════════════════════ CONNECT ══ -->
 <div align="center">
 
-### 📬 &nbsp;Let's Connect & Collaborate
+### 📬 &nbsp;Let's Connect
 
 *Let's build the future of enterprise technology together!* 🚀
 
 <br/>
 
-<a href="https://berkkaya.me"><img src="https://img.shields.io/badge/🌐_Website-berkkaya.me-0f62fe?style=for-the-badge&labelColor=0d1117"/></a>&nbsp;
-<a href="mailto:berkkaya0304@hotmail.com"><img src="https://img.shields.io/badge/📧_Email-Contact_Me-0f62fe?style=for-the-badge&labelColor=0d1117"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/berkkaya/"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0f62fe?style=for-the-badge&labelColor=0d1117"/></a>&nbsp;
-<a href="https://github.com/berkkaya0304"><img src="https://img.shields.io/badge/🐙_GitHub-Follow-0f62fe?style=for-the-badge&labelColor=0d1117"/></a>
-
-<br/><br/>
-
 <img src="https://visitor-badge.laobi.icu/badge?page_id=berkkaya0304.berkkaya0304&left_color=0d1117&right_color=0f62fe&left_text=Total+Visitors" alt="Visitor Counter"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:001d6e,30:0353a4,70:0f62fe,100:001d6e&section=footer&text=Delivery%20Consultant%20%7C%20IBM&fontColor=a8c8ff&fontSize=18&fontAlignY=52&desc=berkkaya.me%20%C2%B7%20Ankara%2C%20T%C3%BCrkiye%20%C2%B7%20linkedin.com%2Fin%2Fberkkaya%20%C2%B7%20github.com%2Fberkkaya0304&descAlignY=72&descColor=6e9fff&descSize=13" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:001d6e,30:0353a4,70:0f62fe,100:001d6e&section=footer&text=Delivery%20Consultant%20%7C%20IBM&fontColor=a8c8ff&fontSize=18&fontAlignY=55&desc=📍%20Ankara%2C%20Türkiye&descAlignY=75&descColor=6e9fff&descSize=14" alt="Footer"/>
 
 </div>
