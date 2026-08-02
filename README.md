@@ -1,7 +1,67 @@
 <!-- ════════════════════════════════════════════════════════════ HEADER ══ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:001d6e,20:0f62fe,60:0353a4,100:001d6e&text=Berk%20Kaya&fontColor=ffffff&fontSize=72&fontAlignY=40&fontStyle=bold&desc=Delivery%20Consultant%20%7C%20IBM&descSize=21&descAlignY=60&descColor=a8c8ff&animation=fadeIn" alt="Header"/>
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#001d6e"/>
+      <stop offset="45%" style="stop-color:#0f62fe"/>
+      <stop offset="100%" style="stop-color:#001d6e"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f62fe;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#78a9ff;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#78a9ff;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0f62fe;stop-opacity:0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="900" height="280" fill="url(#bg)"/>
+
+  <!-- IBM-style dot grid -->
+  <g opacity="0.07">
+    <pattern id="dots" x="0" y="0" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#78a9ff"/>
+    </pattern>
+    <rect width="900" height="280" fill="url(#dots)"/>
+  </g>
+
+  <!-- left accent bar -->
+  <rect x="60" y="70" width="4" height="140" fill="#78a9ff" opacity="0.9"/>
+
+  <!-- top subtle line -->
+  <rect x="0" y="0" width="900" height="3" fill="url(#line)"/>
+  <!-- bottom subtle line -->
+  <rect x="0" y="277" width="900" height="3" fill="url(#line)"/>
+
+  <!-- corner brackets -->
+  <g stroke="#78a9ff" stroke-width="2" fill="none" opacity="0.5">
+    <polyline points="20,20 20,40 40,40"/>
+    <polyline points="880,20 880,40 860,40"/>
+    <polyline points="20,260 20,240 40,240"/>
+    <polyline points="880,260 880,240 860,240"/>
+  </g>
+
+  <!-- NAME -->
+  <text x="86" y="148" font-family="'Segoe UI',system-ui,sans-serif" font-size="62" font-weight="700" fill="#ffffff" filter="url(#glow)" letter-spacing="-1">Berk Kaya</text>
+
+  <!-- accent dot after name -->
+  <circle cx="456" cy="132" r="5" fill="#78a9ff" opacity="0.9"/>
+
+  <!-- divider line -->
+  <rect x="86" y="164" width="320" height="2" fill="#78a9ff" opacity="0.6"/>
+
+  <!-- role line -->
+  <text x="88" y="192" font-family="'Segoe UI',system-ui,sans-serif" font-size="18" font-weight="400" fill="#a8c8ff" letter-spacing="2">DELIVERY CONSULTANT  ·  IBM</text>
+
+  <!-- bottom tag -->
+  <text x="88" y="230" font-family="'Courier New',monospace" font-size="12" fill="#4589ff" opacity="0.8" letter-spacing="1">&gt; enterprise systems  ·  ibm z ecosystem  ·  ankara, türkiye</text>
+</svg>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2600&pause=1100&color=58A6FF&center=true&vCenter=true&width=780&lines=%F0%9F%8F%A2+Delivery+Consultant+%40+IBM+%7C+Ankara%2C+T%C3%BCrkiye;%F0%9F%92%BB+Enterprise+Systems+%7C+IBM+Z+Ecosystem;%E2%98%81%EF%B8%8F+Cloud-Native+Architecture+%7C+DevOps+%7C+Distributed+Systems;%F0%9F%8E%93+TEDU+Computer+Eng.+%7C+PWR+Applied+CS;%F0%9F%9A%80+Building+scalable+enterprise+solutions+that+matter)](https://git.io/typing-svg)
 
