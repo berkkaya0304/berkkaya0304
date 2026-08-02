@@ -39,20 +39,6 @@ that operate at the intersection of engineering rigor and business value.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Role-Delivery_Consultant_@_IBM-0f62fe?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0d1117"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Focus-Enterprise_Systems_·_IBM_Z_·_DevOps-0f62fe?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Working_on-IBM_Z_Enterprise_Consulting-0f62fe?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Learning-Mainframe_·_AI_Solutions-0f62fe?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0d1117"/>
-
-<br/>
-
 <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-0f62fe?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0d1117"/>
 
 </div>
@@ -269,16 +255,20 @@ that operate at the intersection of engineering rigor and business value.
 <!-- ═══════════════════════════════════════════════════ CONNECT ══ -->
 <div align="center">
 
-### 📬 &nbsp;Let's Connect
-
-*Let's build the future of enterprise technology together!* 🚀
+### Let's Connect
 
 <br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=berkkaya0304.berkkaya0304&left_color=0d1117&right_color=0f62fe&left_text=Total+Visitors" alt="Visitor Counter"/>
+<a href="https://www.linkedin.com/in/berkkaya/"><img src="https://img.shields.io/badge/LinkedIn-0f62fe?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>&nbsp;
+<a href="mailto:berkkaya0304@hotmail.com"><img src="https://img.shields.io/badge/Email-0f62fe?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0d1117"/></a>&nbsp;
+<a href="https://berkkaya.me"><img src="https://img.shields.io/badge/Website-0f62fe?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:001d6e,30:0353a4,70:0f62fe,100:001d6e&section=footer&text=Delivery%20Consultant%20%7C%20IBM&fontColor=a8c8ff&fontSize=18&fontAlignY=55&desc=📍%20Ankara%2C%20Türkiye&descAlignY=75&descColor=6e9fff&descSize=14" alt="Footer"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=berkkaya0304.berkkaya0304&left_color=0d1117&right_color=0f62fe&left_text=Profile+Views" alt="Profile Views"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d1117,50:0f2040,100:0d1117&section=footer&text=Delivery+Consultant+%7C+IBM&fontColor=4589ff&fontSize=16&fontAlignY=60" alt="Footer"/>
 
 </div>
