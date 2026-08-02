@@ -1,0 +1,95 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+
+    <!-- Deep black base, subtle IBM blue bleed from left -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#060a14"/>
+      <stop offset="40%"  stop-color="#090d1a"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+
+    <!-- Faint blue glow left-center -->
+    <radialGradient id="glow" cx="22%" cy="60%" r="35%">
+      <stop offset="0%"   stop-color="#0f62fe" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#0f62fe" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Name glow filter — subtle -->
+    <filter id="textGlow" x="-5%" y="-40%" width="110%" height="180%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="220" fill="url(#bg)"/>
+  <rect width="900" height="220" fill="url(#glow)"/>
+
+  <!-- Top edge accent line -->
+  <rect x="0" y="0" width="900" height="1" fill="#0f62fe" opacity="0.5"/>
+
+  <!-- Bottom edge line -->
+  <rect x="0" y="219" width="900" height="1" fill="#0f62fe" opacity="0.18"/>
+
+  <!-- Left IBM-blue vertical bar -->
+  <rect x="54" y="58" width="3" height="108" rx="1.5" fill="#0f62fe"/>
+
+  <!-- Horizontal rule under name -->
+  <rect x="70" y="162" width="340" height="0.75" fill="#4589ff" opacity="0.25"/>
+
+  <!-- Eyebrow — monospace label -->
+  <text x="72" y="84"
+    font-family="'Courier New', monospace"
+    font-size="9.5"
+    fill="#4589ff"
+    letter-spacing="4.5"
+    opacity="0.65"
+  >IBM  ·  DELIVERY CONSULTANT</text>
+
+  <!-- Main name -->
+  <text x="70" y="152"
+    font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+    font-size="66"
+    font-weight="700"
+    fill="#c6c6c6"
+    letter-spacing="-1.5"
+    filter="url(#textGlow)"
+  >Berk Kaya</text>
+
+
+  <!-- Türk Bayrağı — sağ taraf -->
+  <g transform="translate(748, 70)" opacity="0.75">
+
+    <!-- Bayrak dikdörtgeni (kırmızı) -->
+    <rect x="0" y="0" width="110" height="73" rx="3" fill="#E30A17"/>
+
+    <!-- Ay (dış daire - beyaz) -->
+    <circle cx="38" cy="36" r="22" fill="white"/>
+    <!-- Ay (iç daire - kırmızı, ay şeklini oluşturmak için üst üste) -->
+    <circle cx="45" cy="36" r="17.5" fill="#E30A17"/>
+
+    <!-- Yıldız (beyaz, 5 köşeli) -->
+    <!-- Yıldız merkezi: cx=68 cy=36, dış r=11, iç r=4.4, döndürme: 18° -->
+    <polygon
+      points="
+        76.5,36
+        70.2,38.4
+        71.4,45.1
+        66.4,40.6
+        60.1,43.0
+        63.3,36.9
+        59.5,31.7
+        66.2,32.9
+        68.5,26.5
+        71.8,32.6
+      "
+      fill="white"
+    />
+
+  </g>
+
+</svg>
