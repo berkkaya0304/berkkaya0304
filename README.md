@@ -1,7 +1,7 @@
 <!-- ════════════════════════════════════════════════════════════ HEADER ══ -->
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Berk Kaya – Delivery Consultant | IBM"/>
+<img src="assets/header.svg" width="100%" alt="Berk Kaya – Brand Technical Specialist | IBM"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2600&pause=1100&color=58A6FF&center=true&vCenter=true&width=780&lines=%F0%9F%8F%A2+Delivery+Consultant+%40+IBM+%7C+Ankara%2C+T%C3%BCrkiye;%F0%9F%92%BB+Enterprise+Systems+%7C+IBM+Z+Ecosystem;%E2%98%81%EF%B8%8F+Cloud-Native+Architecture+%7C+DevOps+%7C+Distributed+Systems;%F0%9F%8E%93+TEDU+Computer+Eng.+%7C+PWR+Applied+CS;%F0%9F%9A%80+Building+scalable+enterprise+solutions+that+matter)](https://git.io/typing-svg)
 
