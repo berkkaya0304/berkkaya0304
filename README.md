@@ -30,7 +30,7 @@
 
 <br/>
 
-I am a **Delivery Consultant** at **IBM**, operating within enterprise-scale,<br/>
+I am a **Brand Technical Specialist** at **IBM**, operating within enterprise-scale,<br/>
 mission-critical environments in the **IBM Z ecosystem**.<br/><br/>
 My background spans software engineering, distributed systems, and analytical problem-solving —<br/>
 with a focus on translating deep technical knowledge into enterprise-grade outcomes.<br/><br/>
