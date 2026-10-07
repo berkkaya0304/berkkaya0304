@@ -26,12 +26,6 @@
 <!-- ════════════════════════════════════════════════════ ABOUT ══ -->
 <div align="center">
 
-### 🧑‍💼 &nbsp;About Me
-
-<br/>
-
-I am a **Brand Technical Specialist** at **IBM**.
-
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-0f62fe?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0d1117"/>
