@@ -30,12 +30,7 @@
 
 <br/>
 
-I am a **Brand Technical Specialist** at **IBM**, operating within enterprise-scale,<br/>
-mission-critical environments in the **IBM Z ecosystem**.<br/><br/>
-My background spans software engineering, distributed systems, and analytical problem-solving —<br/>
-with a focus on translating deep technical knowledge into enterprise-grade outcomes.<br/><br/>
-I thrive where **precision meets impact** — building consulting-driven solutions<br/>
-that operate at the intersection of engineering rigor and business value.
+I am a **Brand Technical Specialist** at **IBM**.
 
 <br/><br/>
 
