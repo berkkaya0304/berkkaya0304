@@ -247,10 +247,6 @@
 
 <br/><br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=berkkaya0304.berkkaya0304&left_color=0d1117&right_color=0f62fe&left_text=Profile+Views" alt="Profile Views"/>
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d1117,50:0f2040,100:0d1117&section=footer&text=Brand+Technical+Specialist+%7C+IBM&fontColor=4589ff&fontSize=16&fontAlignY=60" alt="Footer"/>
 
 </div>
